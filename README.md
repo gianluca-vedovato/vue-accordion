@@ -2,17 +2,17 @@
 Vue accordion transition.
 ## Installation
 ```
-npm i @palazzinacreativa/vue-accordion
+npm i vue-accordion
 ```
 or
 ```
-yarn add npm i @palazzinacreativa/vue-accordion
+yarn add npm i vue-accordion
 ```
 
 Then you can install your plugin globally with
 ```
 ...
-import Accordion from '@palazzinacreativa/vue-accordion'
+import Accordion from 'vue-accordion'
 
 Vue.use(Accordion)
 ...
@@ -20,7 +20,7 @@ Vue.use(Accordion)
 or locally
 ```
 ...
-import Accordion from '@palazzinacreativa/vue-accordion'
+import Accordion from 'vue-accordion'
 
 export default {
   ...
