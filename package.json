@@ -1,6 +1,6 @@
 {
-  "name": "vue-simple-accordion",
-  "version": "0.0.9",
+  "name": "vue-accordion-transition",
+  "version": "0.0.10",
   "description": "Vue accordion animation",
   "main": "dist/vueaccordion.umd.js",
   "module": "dist/vueaccordion.esm.js",
